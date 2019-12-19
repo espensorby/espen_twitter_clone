@@ -1,0 +1,8 @@
+postgres://xftbwhxveovbgd:378d2791ac861d8210b01e2525cfe121b072a22422f65cfe89c15b1994d21ffe@ec2-174-129-254-250.compute-1.amazonaws.com:5432/d1ro2oc5kbuuif
+
+user: xftbwhxveovbgd
+password: 378d2791ac861d8210b01e2525cfe121b072a22422f65cfe89c15b1994d21ffe
+host: ec2-174-129-254-250.compute-1.amazonaws.com
+database: d1ro2oc5kbuuif
+port: 5432
+
